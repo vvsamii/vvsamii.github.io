@@ -29,4 +29,4 @@ My GitHub page is (https://github.com/vvsamii/vvsamii.github.io.git)
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
 
-    ![The sample image gif from lab 12] (images/ sample_image.gif)
+    ![The sample image gif from Lab 12] (images/sample_image.gif)

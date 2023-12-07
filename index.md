@@ -4,7 +4,7 @@ This is my home page! My name is Samantha Herrera and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is (https://github.com/vvsamii)
+My GitHub page is [https://github.com/vvsamii](https://github.com/vvsamii)
 
 
 

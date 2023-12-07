@@ -4,7 +4,7 @@ This is my home page! My name is Samantha Herrera and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is (https://github.com/vvsamii/vvsamii.github.io.git) 
+My GitHub page is (http://github.com/vvsamii.) 
 
 ### CPSC 120
 
@@ -29,4 +29,5 @@ My GitHub page is (https://github.com/vvsamii/vvsamii.github.io.git)
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
 
-    ![The gradient image from Lab 10](images/sample_images.gif)
+    ![The gradient image from Lab 10](images/gradient.png)
+
